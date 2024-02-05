@@ -1,0 +1,1 @@
+- [Here is why MOSFET drivers are sometimes essential! || MOSFET Driver Part 1 (Driver, Bootstrapping)](https://youtu.be/8swJ_Bnsgl4)
